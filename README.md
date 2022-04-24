@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning CS50AI
 - 💞️ I’m looking to collaborate on nothing.
 - 💻 I know Python, Scratch, C, SQL, JavaScript, Java
-- Biggest Fan of ![Batman](https://media0.giphy.com/media/6heqPsKie867Q7ob7w/giphy.gif?cid=ecf05e47iqwgmvzx9pi62z49p8pb8ugzjghkj3pr52k4l0ep&rid=giphy.gif)
+- Biggest Fan of The Dark Knight, The Caped Crusader, The Batman!
+![Batman](https://media0.giphy.com/media/6heqPsKie867Q7ob7w/giphy.gif?cid=ecf05e47iqwgmvzx9pi62z49p8pb8ugzjghkj3pr52k4l0ep&rid=giphy.gif)
