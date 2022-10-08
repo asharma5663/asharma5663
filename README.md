@@ -1,10 +1,13 @@
+<img src="https://user-images.githubusercontent.com/83625567/194696977-536359a2-66d0-4f74-b836-1086469c4f38.gif" align=left></img>
+<h1> 👋🏻 - Hello, Multiverse!</h1>
+<h4>🤝🏻 - This is Agastya Sharma<br>
+💻 - A teen programmer from Delhi NCR, India<br>
+📖 - I am currently learning CS50P<br>
+⌨️ - I know Python, C, Scratch, HTML and Visual Basic<br>
+🧡 - Right Wing Nationalist <br>
+🧑🏻‍🎓 - MIT Aspirant<br>
+✌🏻 - Peaceful until provoked<br>
+🔖 - Learning German and Klingon
+<img src="https://user-images.githubusercontent.com/83625567/194697323-bd684d56-2b81-4914-bfe4-220fdb80da9c.gif" align=left width=450px></img>
 
-### 👋 Hi, I’m Agastya Sharma, CS50x Certified
-- 🕸️ My website: <a href="https://sites.google.com/view/agastya5663/">Click here!</a>
-- 👀 I’m interested in AI+Machine Learning and Cybersecurity
-- 🌱 I’m currently learning CS50AI
-- 💞️ No for collaboration rn.
-- 💻 I know Python, Scratch, C, SQL, JavaScript, Java
-- 🧡 Sanghi, Sanatani, Brahmin, Jai Shri Ram!!![CS50X](https://user-images.githubusercontent.com/83625567/165346712-9f252542-4b93-4441-a8de-e00841987adb.png)
 
-<BR>Note: QR code erased from the uploaded copy for privacy reasons
