@@ -8,6 +8,6 @@
 🧑🏻‍🎓 - MIT Aspirant<br>
 ✌🏻 - Peaceful until provoked<br>
 🔖 - Learning German and Klingon
-<img src="https://user-images.githubusercontent.com/83625567/194697323-bd684d56-2b81-4914-bfe4-220fdb80da9c.gif" align=left width=450px></img>
+<img src="https://user-images.githubusercontent.com/83625567/194697323-bd684d56-2b81-4914-bfe4-220fdb80da9c.gif" align=left width=300px></img>
 
 
